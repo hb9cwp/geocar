@@ -1,4 +1,4 @@
 baseURL = "http://geocar.s3-website.eu-central-1.amazonaws.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "rs' new Hugo Site"
 theme = "ananke"
